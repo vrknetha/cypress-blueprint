@@ -1,0 +1,21 @@
+{
+  "name": "cypress-blueprint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/webpack-preprocessor": "^5.4.1",
+    "@testing-library/cypress": "^6.0.0",
+    "cypress": "^4.9.0",
+    "cypress-wait-until": "^1.7.1",
+    "cypress-xpath": "^1.6.0",
+    "playwright": "^1.1.1",
+    "webpack": "^4.43.0"
+  }
+}
